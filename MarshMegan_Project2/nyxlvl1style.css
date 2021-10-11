@@ -1,0 +1,98 @@
+@charset "UTF-8";
+body {
+	padding: 0;
+	margin: 0;
+}
+
+
+.nlvl1{
+	background-img: url("Nyx/Nyxlvl1.png");
+	right: 200px;
+	top: 2100px;
+}
+
+
+.nyxlvl1{
+	background-img: url("Nyx/Nyxs-Room.jpg");
+	
+	bottom: 500;
+}
+
+.dog{
+	background-img: url("Nyx/dog_0004_Layer-7.png");
+	 right: 550px;
+	top: 880px;
+}
+img{
+	position: absolute;
+	display:block;
+	margin: auto;
+}
+
+.balloons{
+	background-img: url("Nyx/balloons_0003_Layer-8.png");
+	right: -500px;
+	top: 1350px;
+}
+
+.bear{
+	background-img: url("Nyx/bear_0007_Layer-4.png");
+	right: 180px;
+	top: 166px;
+}
+
+.caps{
+	background-img: url("Nyx/bottlecaps_0001_Layer-10.png");
+	right: 250px;
+	top: 1040px;
+}
+
+.box{
+	background-img: url("Nyx/box_0009_Layer-2.png");
+	right: 600px;
+	top: 240px;
+}
+
+.toy{
+	background-img: url("Nyx/toy_0008_Layer-3.png");
+	right: 460px;
+	top: 177px;
+}
+
+.clock{
+	background-img: url("Nyx/clock_0000_Layer-11.png");
+	right: 750px;
+	top: 20px;
+}
+
+.flags{
+	background-img: url("Nyx/flags_0005_Layer-6.png");
+	right: -500px;
+	top: 3px;
+}
+
+.painting{
+	background-img: url("Nyx/painting_0006_Layer-5.png");
+	right: 200px;
+	top: 525px;
+}
+
+.stickers{
+	background-img: url("Nyx/stickers_0002_Layer-9.png");
+	right: 60px;
+	top: 780px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

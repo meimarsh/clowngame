@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.clowns {
+	
+	background-img: url("Clowns/PickAClown.JPG");
+	
+	bottom: 500;
+}
+
+img{
+	position: absolute;
+	display:block;
+	margin: auto;
+}
+
+.pickanna{
+	background-img: url("Clowns/PickAnna_0000_Layer-2.png");
+	 left: 300px;
+	top: 1000px;
+}
+
+.picknyx{
+	background-img: url("Clowns/picknyx_0000_Layer-1.png");
+	left: 850px;
+	top: 1500px;
+	
+}
+
+.rat{
+	background-img: url("Clowns/cheeseboy_0002_Layer-1.png");
+	left: 1700px;
+	top: 1500px;
+}

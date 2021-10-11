@@ -1,0 +1,126 @@
+@charset "UTF-8";
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+
+.pointy {
+	background-img: url("Anna/AnnaLevel1_0002_lvl-1-Pointy-.png");
+	
+	left: 690px;
+	top: 1640px;
+}
+
+img{
+	position: absolute;
+	display:block;
+	margin: auto;
+}
+
+
+.annasroom {
+	background-img: url("Anna/Anna's-Room.jpg");
+	
+	bottom:500;
+}
+
+	img{
+	position: absolute;
+	display:block;
+	margin: auto;
+}
+
+.blanket {
+	background-img: url("Anna/Blanket_0001_Layer-4.png");
+	
+	right: -400px;
+	top: 1057px;
+}
+
+.annapop {
+	
+	width: 50px;
+	height: 50px;
+	opacity: 0;
+	transition: width 0s, height 0s, opacity 0s, 
+}
+
+.balls {
+	background-img: url("Anna/balls_0008_Layer-3.png");
+	right: -420px;
+	top: 878px;
+}
+
+.horn{
+	background-img: url("Anna/horn_0007_Layer-9.png");
+	right: -230px;
+	top: 893px;			
+}
+
+.jesterhat {
+	background-img: url("Anna/jesterhat_0001_Layer-6.png");
+	right: -690px;
+	top: 385px;
+}
+
+.ladder {
+background-image: url:("Anna/ladder_0000_Layer-8.png");
+	right: -300px;
+	top: 3px;
+}
+
+.planets{
+	background-img: url("Anna/planets_0004_Layer-12.png");
+	right: 440px;
+	top: 620px;
+}
+
+.pointyhat{
+	background-img: url("Anna/pointyhat_0002_Layer-5.png");
+	right: -480px;
+	top: 670px;
+}
+
+.snake{ 
+background-img: url("Anna/snake_0006_Layer-10.png");
+	right: -75px;
+	top: 140px;
+}
+
+
+.starpillow{
+	background-img: url("Anna/starpillow_0005_Layer-11.png");
+	right: -983px;
+	top: 1030px;
+}
+
+.tent{
+	background-img: url("Anna/tent_0003_Layer-13.png");
+	right: 320px;
+	top: 925px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

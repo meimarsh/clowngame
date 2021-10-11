@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.rat{
+	background-img: url("cheeseboy/cheeseboyroom.jpg");
+	 bottom: 500;
+}
+
+img{
+	position: absolute;
+	display:block;
+	margin: auto;
+}
+.ratcup{
+	background-img: url("cheeseboy/ratcup_0001_Layer-1.png");
+	right: 1100px;
+	top: 1300px;
+	
+}
+
+.pinkcup{
+	background-img: url("cheeseboy/pinkcup_0002_Layer-1.png");
+	right: 950px;
+	top: 1400px;
+}
