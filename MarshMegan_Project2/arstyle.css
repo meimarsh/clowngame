@@ -66,7 +66,7 @@ img{
 }
 
 .ladder {
-background-image: url:("Anna/ladder_0000_Layer-8.png");
+background-image: url("Anna/ladder_0000_Layer-8.png");
 	right: -300px;
 	top: 3px;
 }
